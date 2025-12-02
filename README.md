@@ -27,19 +27,3 @@ Link: [SalaryVsExperience.ipynb](./SalaryVsExperience.ipynb)
 
 ---
 
-## 3. Visual Overview of Algorithms
-
-Below images can be added to GitHub by uploading screenshots or diagrams:
-
-### 3.1 Linear Regression Concept
-![Linear Regression](images/linear_regression.png)
-
-### 3.2 Multiple Linear Regression Concept
-![Multiple Linear Regression](images/multiple_linear_regression.png)
-
-### 3.3 Machine Learning Workflow
-![ML Workflow](images/ml_workflow.png)
-
-*(You may create an **images** folder and place the diagrams inside.)*
-
----
